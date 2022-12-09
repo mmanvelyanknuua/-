@@ -11,7 +11,15 @@
 
         private void button1_Click(object? sender, EventArgs e)
         {
-            MessageBox.Show($"Ви ввели число {textBox1.Text}");
+            try
+            {
+                MessageBox.Show($"Ви ввели число {Convert.ToInt32(textBox1.Text)}");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Помилка");
+            }
+            
         }
     }
 }

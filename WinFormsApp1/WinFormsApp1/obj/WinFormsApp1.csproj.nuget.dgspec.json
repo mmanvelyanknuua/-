@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\Misha\\Documents\\GitHub\\-\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\Misha\\Documents\\GitHub\\-\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Misha\\Documents\\GitHub\\-\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "C:\\Users\\Misha\\Documents\\GitHub\\-\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\Misha\\.nuget\\packages\\",
-        "outputPath": "D:\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "C:\\Users\\Misha\\Documents\\GitHub\\-\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VS\\shared\\NuGetPackages"
